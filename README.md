@@ -31,7 +31,7 @@ API_KEY = "your-api-key-here"
 Run the script:
 
 ```bash
-python3 mailcow_manager.py
+python3 aio.py
 ```
 
 Select from the interactive menu:
